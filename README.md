@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Saraswat</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Developer and a Singer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsaraswat2004&label=Profile%20views&color=0e75b6&style=flat" alt="yashsaraswat2004" /> </p>
 
@@ -9,11 +9,11 @@
 
 - 👯 I’m looking to collaborate on **frontend projects**
 
-- 💬 Ask me about **C, C++, HTML5, CSS3, Javascript**
+- 💬 Ask me about **C, C++, HTML5, CSS3, Javascript, ReactJs**
 
 - 📫 How to reach me **saraswatyash2004@gmail.com**
 
-- ⚡ Fun fact **I am Alpha Microsoft Student Ambassador**
+- ⚡ Fun fact **I am Beta Microsoft Student Ambassador**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
